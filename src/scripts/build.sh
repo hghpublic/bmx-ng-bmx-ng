@@ -7,3 +7,5 @@ set -ex
 version=0.150.3.58
 timestamp=202510050425
 ./build_release.sh -a arm64 -l linux -b ${version} -t ${timestamp}
+
+#  ./build_release.sh -a arm64 -l rpi -b 0.150.3.58 -t 202510050425
