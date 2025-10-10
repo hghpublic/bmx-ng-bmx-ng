@@ -1,5 +1,10 @@
+# directories
 release/
 temp/
+BlitzMax/
+zips/
 
+# files
 *.zip
 *.log
+*.tar.xz
